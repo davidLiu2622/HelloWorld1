@@ -1,2 +1,2 @@
-print 'hello wold24'
+print 'hello wold25`'
 
