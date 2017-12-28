@@ -1,2 +1,3 @@
-print 'hello wold5'
+print 'hello wold6'
+print "xxx"
 
